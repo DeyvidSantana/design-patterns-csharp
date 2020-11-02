@@ -1,0 +1,13 @@
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Strategy.exe
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Strategy.dll
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Strategy.dll
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Strategy.pdb
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Strategy.deps.json
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Strategy.pdb
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache

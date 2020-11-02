@@ -1,0 +1,13 @@
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Design Patterns CSharp.exe
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Design Patterns CSharp.deps.json
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Design Patterns CSharp.runtimeconfig.json
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Design Patterns CSharp.runtimeconfig.dev.json
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Design Patterns CSharp.dll
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\bin\Debug\netcoreapp3.1\Design Patterns CSharp.pdb
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Design Patterns CSharp.csprojAssemblyReference.cache
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Design Patterns CSharp.AssemblyInfoInputs.cache
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Design Patterns CSharp.AssemblyInfo.cs
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Design Patterns CSharp.csproj.CoreCompileInputs.cache
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Design Patterns CSharp.dll
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Design Patterns CSharp.pdb
+D:\cursos\design_patterns_c#\Design Patterns CSharp\Design Patterns CSharp\obj\Debug\netcoreapp3.1\Design Patterns CSharp.genruntimeconfig.cache
