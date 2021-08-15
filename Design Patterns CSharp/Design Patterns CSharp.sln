@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{745F21F6-3515-452E-ADED-D4793941964B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{51E40156-5AB6-4253-8469-7C49CAE38B3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csproj", "{51E40156-5AB6-4253-8469-7C49CAE38B3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsability", "ChainOfResponsability\ChainOfResponsability.csproj", "{E25CE1C2-36D1-4DCD-BB82-46A4C28FF5B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsability", "ChainOfResponsability\ChainOfResponsability.csproj", "{E25CE1C2-36D1-4DCD-BB82-46A4C28FF5B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringGuru", "RefactoringGuru\RefactoringGuru.csproj", "{537E63A8-16B9-4F2E-8C99-A4860392A5EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{E25CE1C2-36D1-4DCD-BB82-46A4C28FF5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E25CE1C2-36D1-4DCD-BB82-46A4C28FF5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E25CE1C2-36D1-4DCD-BB82-46A4C28FF5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537E63A8-16B9-4F2E-8C99-A4860392A5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537E63A8-16B9-4F2E-8C99-A4860392A5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537E63A8-16B9-4F2E-8C99-A4860392A5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537E63A8-16B9-4F2E-8C99-A4860392A5EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

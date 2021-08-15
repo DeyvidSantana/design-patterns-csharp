@@ -1,0 +1,16 @@
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\bin\Debug\net5.0\RefactoringGuru.exe
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\bin\Debug\net5.0\RefactoringGuru.deps.json
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\bin\Debug\net5.0\RefactoringGuru.runtimeconfig.json
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\bin\Debug\net5.0\RefactoringGuru.runtimeconfig.dev.json
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\bin\Debug\net5.0\RefactoringGuru.dll
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\bin\Debug\net5.0\ref\RefactoringGuru.dll
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\bin\Debug\net5.0\RefactoringGuru.pdb
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\obj\Debug\net5.0\RefactoringGuru.csprojAssemblyReference.cache
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\obj\Debug\net5.0\RefactoringGuru.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\obj\Debug\net5.0\RefactoringGuru.AssemblyInfoInputs.cache
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\obj\Debug\net5.0\RefactoringGuru.AssemblyInfo.cs
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\obj\Debug\net5.0\RefactoringGuru.csproj.CoreCompileInputs.cache
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\obj\Debug\net5.0\RefactoringGuru.dll
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\obj\Debug\net5.0\ref\RefactoringGuru.dll
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\obj\Debug\net5.0\RefactoringGuru.pdb
+D:\cursos\design_patterns_c#\Design Patterns CSharp\RefactoringGuru\obj\Debug\net5.0\RefactoringGuru.genruntimeconfig.cache
