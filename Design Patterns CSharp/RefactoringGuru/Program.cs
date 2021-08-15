@@ -1,4 +1,5 @@
 ﻿using RefactoringGuru.Criacionais;
+using RefactoringGuru.Estruturais;
 using System;
 using System.Threading;
 

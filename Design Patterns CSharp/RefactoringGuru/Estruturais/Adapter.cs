@@ -1,4 +1,4 @@
-﻿namespace RefactoringGuru.Criacionais
+﻿namespace RefactoringGuru.Estruturais
 {
     // O Alvo define a interface específica do domínio usada pelo código do cliente.
     public interface ITarget
