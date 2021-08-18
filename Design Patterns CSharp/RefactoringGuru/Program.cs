@@ -1,4 +1,5 @@
-﻿using RefactoringGuru.Criacionais;
+﻿using RefactoringGuru.Comportamentais;
+using RefactoringGuru.Criacionais;
 using RefactoringGuru.Estruturais;
 using System;
 using System.Threading;
@@ -9,6 +10,7 @@ namespace RefactoringGuru
     {
         static void Main(string[] args)
         {
+            ExecutarStrategy();
         }
 
         #region Criacionais
@@ -78,6 +80,27 @@ namespace RefactoringGuru
             Console.WriteLine("Mas com o adaptador o cliente consegue chamar seu método.");
 
             Console.WriteLine(target.ObterRequisicao());
+        }
+
+        #endregion
+
+        #endregion
+
+        #region Comportamentais
+
+        #region Strategy
+
+        private static void ExecutarStrategy()
+        {
+            var context = new Context();
+
+            Console.WriteLine("Client: Strategy is set to normal sorting.");
+            context.SetStrategy(new ConcreteStrategyA());
+            context.DoSomeBusinessLogic();
+
+            Console.WriteLine("Client: Strategy is set to reverse sorting.");
+            context.SetStrategy(new ConcreteStrategyB());
+            context.DoSomeBusinessLogic();
         }
 
         #endregion
