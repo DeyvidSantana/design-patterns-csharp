@@ -10,7 +10,7 @@ namespace RefactoringGuru
     {
         static void Main(string[] args)
         {
-            ExecutarStrategy();
+            ExecutarBuilder();
         }
 
         #region Criacionais
@@ -61,6 +61,30 @@ namespace RefactoringGuru
         {
             var singleton = SingletonSeguroThreads.ObterInstancia(valor);
             Console.WriteLine(singleton.Valor);
+        }
+
+        #endregion
+
+        #region Builder
+
+        private static void ExecutarBuilder()
+        {
+            var director = new Director();
+            var builder = new ConcreteBuilder();
+            director.Builder = builder;
+
+            Console.WriteLine("Standard basic product:");
+            director.BuildMinimalViableProduct();
+            Console.WriteLine(builder.GetProduct().ListParts());
+            
+            Console.WriteLine("Standard full featured product:");
+            director.BuildFullFeaturedProduct();
+            Console.WriteLine(builder.GetProduct().ListParts());
+
+            Console.WriteLine("Custom product:");
+            builder.BuildPartA();
+            builder.BuildPartC();
+            Console.Write(builder.GetProduct().ListParts());
         }
 
         #endregion
