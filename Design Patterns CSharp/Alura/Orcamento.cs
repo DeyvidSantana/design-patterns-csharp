@@ -1,6 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using Alura.ChainOfResponsability;
+using System.Collections.Generic;
 
-namespace Alura.ChainOfResponsability
+namespace Alura
 {
     public class Orcamento
     {

@@ -1,4 +1,5 @@
 ﻿using Alura.ChainOfResponsability;
+using Alura.TemplateMethod;
 using System;
 
 namespace Alura
@@ -7,7 +8,19 @@ namespace Alura
     {
         static void Main(string[] args)
         {
-            ExecuteChainOfResponsability();
+            ExecuteTemplateMethod();
+        }
+
+        private static void ExecuteTemplateMethod()
+        {
+            var icpp = new ICPP();
+            var ikcv = new IKCV();
+
+            var valorImpostoIcpp = icpp.Calcular(new Orcamento(500.0));
+            var valorImpostoIkcv = ikcv.Calcular(new Orcamento(500.0));
+
+            Console.WriteLine(valorImpostoIcpp);
+            Console.WriteLine(valorImpostoIkcv);
         }
 
         private static void ExecuteChainOfResponsability()
